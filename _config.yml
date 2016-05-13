@@ -6,9 +6,9 @@ color:
   saturation: 0.031580432318151
   rhythmicContrast: 0.27459340007044375
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#2B3A42'
+    - '#3F5765'
+    - '#BDD4DE'
+    - '#EFEFEF'
+    - '#FF530D'
 name: Demo GuGu
