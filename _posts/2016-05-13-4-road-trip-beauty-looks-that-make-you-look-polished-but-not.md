@@ -25,8 +25,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.fashionmagazine.com/beauty/2016/05/12/road-trip-beauty/'
 title: 4 road trip beauty looks that make you look polished but not high maintenance
-datePublished: '2016-05-13T21:25:46.003Z'
-dateModified: '2016-05-13T21:25:45.872Z'
+datePublished: '2016-05-13T21:25:51.776Z'
+dateModified: '2016-05-13T21:25:28.645Z'
 starred: false
 sourcePath: _posts/2016-05-13-4-road-trip-beauty-looks-that-make-you-look-polished-but-not.md
 inFeed: true
