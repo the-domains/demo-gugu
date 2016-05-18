@@ -4,7 +4,7 @@
         <description><![CDATA[Demo GuGu Site]]></description>
         <link>https://thegrid.ai/demo-gugu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 May 2016 11:04:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 May 2016 11:04:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/demo-gugu/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/demo-gugu/21dd075a-5953-4bb5-8b65-e9943ff6a7b1/index.html</link>
             <guid isPermaLink="false">21dd075a-5953-4bb5-8b65-e9943ff6a7b1</guid>
             <pubDate>Fri, 13 May 2016 17:16:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meilė šildo...]]></title>
+            <description><![CDATA[<article><h1>Meilė šildo...</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d230037-c6bf-4c4d-a904-be6b88483ce5.jpg"></article>]]></description>
+            <link>https://thegrid.ai/demo-gugu/meile-sildo/index.html</link>
+            <guid isPermaLink="false">c857db4d-f1e0-4ec9-a99d-a50272f49944</guid>
+            <pubDate>Wed, 18 May 2016 11:04:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Portretas]]></title>
