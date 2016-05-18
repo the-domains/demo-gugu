@@ -1,14 +1,14 @@
-layout_spectrum: 0.8074025695677847
-typography_spectrum: 0.4041405636817217
+layout_spectrum: 0.8720473435241729
+typography_spectrum: 0.1285690856166184
 color:
-  brandStrength: 0.6685089929960668
-  lightness: 0.2168024410493672
-  saturation: 0.031580432318151
-  rhythmicContrast: 0.27459340007044375
+  brandStrength: 0.09193849982693791
+  lightness: 0.6090727967675775
+  saturation: 0.5542152596171945
+  rhythmicContrast: 0.6546009688172489
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#FF8000'
+    - '#FFD933'
+    - '#CCCC52'
+    - '#8FB359'
+    - '#192B33'
 name: Demo GuGu
