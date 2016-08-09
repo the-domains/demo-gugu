@@ -1,9 +1,11 @@
 ---
-datePublished: '2016-08-09T13:29:55.647Z'
+datePublished: '2016-08-09T13:40:25.213Z'
 sourcePath: _posts/2016-05-25-zydejimas-moters-ir-gamtos.md
 author: []
-dateModified: '2016-06-20T12:09:12.593Z'
+via: {}
+dateModified: '2016-08-09T13:40:24.480Z'
 title: 'Žydėjimas.. moters ir gamtos.. '
+publisher: {}
 description: ''
 starred: false
 inFeed: true
