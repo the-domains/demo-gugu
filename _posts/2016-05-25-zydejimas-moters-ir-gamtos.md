@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-05-25T09:43:21.562Z'
+datePublished: '2016-08-09T13:29:55.647Z'
+sourcePath: _posts/2016-05-25-zydejimas-moters-ir-gamtos.md
 author: []
-dateModified: '2016-05-25T09:42:32.452Z'
+dateModified: '2016-06-20T12:09:12.593Z'
 title: 'Žydėjimas.. moters ir gamtos.. '
 description: ''
 starred: false
-sourcePath: _posts/2016-05-25-zydejimas-moters-ir-gamtos.md
 inFeed: true
 hasPage: true
 inNav: false
@@ -14,4 +14,4 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b29387f8-5cac-408f-8eeb-c7735d3f4677.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e6f9dd12a0152ef8446029eeed20d2f7f9c6e75a.jpg)
