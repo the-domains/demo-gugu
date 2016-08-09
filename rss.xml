@@ -4,8 +4,15 @@
         <description><![CDATA[Demo GuGu Site]]></description>
         <link>https://thegrid.ai/demo-gugu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Aug 2016 13:38:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2016 13:40:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/demo-gugu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Žydėjimas.. moters ir gamtos.. ]]></title>
+            <description><![CDATA[<article><h1>Žydėjimas.. moters ir gamtos.. </h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e6f9dd12a0152ef8446029eeed20d2f7f9c6e75a.jpg"></article>]]></description>
+            <link>https://thegrid.ai/demo-gugu/zydejimas-moters-ir-gamtos/index.html</link>
+            <guid isPermaLink="false">a413fa8d-57e3-477e-b05a-ff8564c3e1e6</guid>
+            <pubDate>Tue, 09 Aug 2016 13:40:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mano mūza su savo mūza..]]></title>
             <description><![CDATA[<article><h1>Mano mūza su savo mūza..</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eb8f2737110a1109b5d5bbf1c56e19e55cb381a1.jpg"></article>]]></description>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/demo-gugu/portretas/index.html</link>
             <guid isPermaLink="false">85b00544-c9b2-421f-99be-4645cd1fcd4d</guid>
             <pubDate>Tue, 09 Aug 2016 13:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Žydėjimas.. moters ir gamtos.. ]]></title>
-            <description><![CDATA[<article><h1>Žydėjimas.. moters ir gamtos.. </h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e6f9dd12a0152ef8446029eeed20d2f7f9c6e75a.jpg"></article>]]></description>
-            <link>https://thegrid.ai/demo-gugu/zydejimas-moters-ir-gamtos/index.html</link>
-            <guid isPermaLink="false">a413fa8d-57e3-477e-b05a-ff8564c3e1e6</guid>
-            <pubDate>Tue, 09 Aug 2016 13:29:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sunshine]]></title>
