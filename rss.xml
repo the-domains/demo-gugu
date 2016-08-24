@@ -4,21 +4,28 @@
         <description><![CDATA[GU.GU Photography]]></description>
         <link>https://thegrid.ai/demo-gugu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 08:42:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 08:51:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/demo-gugu/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/65e03519-34c3-437a-90a1-818509dc99f9.jpg" alt="Caption">]]></description>
-            <link>https://thegrid.ai/demo-gugu/mamos-rankose-gerumas-supas/index.html</link>
-            <guid isPermaLink="false">5a335f1b-741c-4dd5-a3f1-fd1a6a09c55d</guid>
-            <pubDate>Wed, 24 Aug 2016 08:42:49 GMT</pubDate>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/97af70bd-0f70-4146-bf00-079931572e79.jpg">]]></description>
+            <link>https://thegrid.ai/demo-gugu/9606c856-c1bc-4225-b2a5-a8a2e158ca2f/index.html</link>
+            <guid isPermaLink="false">9606c856-c1bc-4225-b2a5-a8a2e158ca2f</guid>
+            <pubDate>Wed, 24 Aug 2016 08:43:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/77db9f95-8d4d-4ec5-a602-203fa9fc87e3.jpg">]]></description>
             <link>https://thegrid.ai/demo-gugu/kas-yra-gyvenimo-pilnatve-tai-matyti-siltai-susisukusi-sot/index.html</link>
             <guid isPermaLink="false">1b49b2e4-a313-4f8d-aeb2-086ed9b09a22</guid>
-            <pubDate>Wed, 24 Aug 2016 08:42:16 GMT</pubDate>
+            <pubDate>Wed, 24 Aug 2016 08:51:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/65e03519-34c3-437a-90a1-818509dc99f9.jpg" alt="Caption">]]></description>
+            <link>https://thegrid.ai/demo-gugu/mamos-rankose-gerumas-supas/index.html</link>
+            <guid isPermaLink="false">5a335f1b-741c-4dd5-a3f1-fd1a6a09c55d</guid>
+            <pubDate>Wed, 24 Aug 2016 08:42:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b096dc64-8693-4938-bc88-3a9a9e9d641a.jpg" alt="T&edot;ti, &zcaron;i&umacr;r&edot;k!!! Man jau du!!">]]></description>
             <link>https://thegrid.ai/demo-gugu/teti-ziurek-man-jau-du/index.html</link>
             <guid isPermaLink="false">64247fed-080d-4c0c-9e94-2657b787ad21</guid>
-            <pubDate>Wed, 24 Aug 2016 08:36:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/23f2bef4-6e7e-48a9-93b0-15f280a39448.jpg" alt="Ilgai ir laimingai...">]]></description>
-            <link>https://thegrid.ai/demo-gugu/ilgai-ir-laimingai/index.html</link>
-            <guid isPermaLink="false">a6b45f5f-1336-481f-90f7-198dc86ea1f3</guid>
             <pubDate>Wed, 24 Aug 2016 08:36:42 GMT</pubDate>
         </item>
     </channel>
