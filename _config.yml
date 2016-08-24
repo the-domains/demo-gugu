@@ -1,15 +1,15 @@
-typography_spectrum: 0.12820016546174884
-color:
-  brandStrength: 0.09193849982693791
-  lightness: 0.6090727967675775
-  saturation: 0.5542152596171945
-  rhythmicContrast: 0.6546009688172489
-  brandColors:
-    - '#FF8000'
-    - '#FFD933'
-    - '#CCCC52'
-    - '#8FB359'
-    - '#192B33'
 layout_spectrum: 0.8118842171970755
+typography_spectrum: 0.5189341828227043
+color:
+  brandStrength: 0.40304385288618505
+  lightness: 0.7807927336543798
+  saturation: 0.7948977623600513
+  rhythmicContrast: 0.10598610015586019
+  brandColors:
+    - '#3E454C'
+    - '#2185C5'
+    - '#7ECEFD'
+    - '#FFF6E5'
+    - '#FF7F66'
 name: Demo GuGu Site
 title: GU.GU Photography
