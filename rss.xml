@@ -4,7 +4,7 @@
         <description><![CDATA[GU.GU Photography]]></description>
         <link>https://thegrid.ai/demo-gugu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 08:51:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 08:51:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/demo-gugu/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/demo-gugu/9606c856-c1bc-4225-b2a5-a8a2e158ca2f/index.html</link>
             <guid isPermaLink="false">9606c856-c1bc-4225-b2a5-a8a2e158ca2f</guid>
             <pubDate>Wed, 24 Aug 2016 08:43:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/09f8f746-06c1-4b65-ac03-435a16830b71.jpg">]]></description>
+            <link>https://thegrid.ai/demo-gugu/ac9b797d-0efe-4949-a058-b092a8df5a82/index.html</link>
+            <guid isPermaLink="false">ac9b797d-0efe-4949-a058-b092a8df5a82</guid>
+            <pubDate>Wed, 24 Aug 2016 08:51:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a789fa9-3edd-4b12-b545-273302fb499a.jpg" alt="Meil&edot;- kiek jos atiduosi, tiek ir gausi..">]]></description>
             <link>https://thegrid.ai/demo-gugu/meile-kiek-jos-atiduosi-tiek-ir-gausi/index.html</link>
             <guid isPermaLink="false">856d17c0-9725-45ea-8d36-49fdabd942e4</guid>
-            <pubDate>Wed, 24 Aug 2016 08:36:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b096dc64-8693-4938-bc88-3a9a9e9d641a.jpg" alt="T&edot;ti, &zcaron;i&umacr;r&edot;k!!! Man jau du!!">]]></description>
-            <link>https://thegrid.ai/demo-gugu/teti-ziurek-man-jau-du/index.html</link>
-            <guid isPermaLink="false">64247fed-080d-4c0c-9e94-2657b787ad21</guid>
             <pubDate>Wed, 24 Aug 2016 08:36:42 GMT</pubDate>
         </item>
     </channel>
