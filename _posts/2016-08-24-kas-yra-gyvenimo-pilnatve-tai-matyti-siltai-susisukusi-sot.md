@@ -1,17 +1,17 @@
 ---
-datePublished: '2016-08-24T08:23:01.288Z'
+datePublished: '2016-08-24T08:42:16.976Z'
+sourcePath: >-
+  _posts/2016-08-24-kas-yra-gyvenimo-pilnatve-tai-matyti-siltai-susisukusi-sot.md
 author: []
 via: {}
-dateModified: '2016-08-24T08:22:50.640Z'
+dateModified: '2016-08-24T08:42:16.517Z'
 title: ''
 publisher: {}
 description: >-
   Kas yra gyvenimo pilnatvė? Tai matyti šiltai susisukusį, sotų, sveiką,
   saldžiai miegantį savo vaikelį… tada supranti, kad šią akimirką tau daugiau
-  nieko netrūksta… <3 
+  nieko netrūksta… <3
 starred: false
-sourcePath: >-
-  _posts/2016-08-24-kas-yra-gyvenimo-pilnatve-tai-matyti-siltai-susisukusi-sot.md
 inFeed: true
 hasPage: true
 inNav: false
