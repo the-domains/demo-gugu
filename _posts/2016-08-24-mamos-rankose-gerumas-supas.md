@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-08-24T08:25:23.867Z'
+datePublished: '2016-08-24T08:42:49.850Z'
+sourcePath: _posts/2016-08-24-mamos-rankose-gerumas-supas.md
 author: []
 via: {}
-dateModified: '2016-08-24T08:25:14.526Z'
+dateModified: '2016-08-24T08:42:49.280Z'
 title: ''
 publisher: {}
-description: 'Mamos rankose gerumas supas.. '
+description: Mamos rankose gerumas supas..
 starred: false
-sourcePath: _posts/2016-08-24-mamos-rankose-gerumas-supas.md
 inFeed: true
 hasPage: true
 inNav: false
