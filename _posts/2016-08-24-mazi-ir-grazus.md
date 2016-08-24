@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-08-24T08:36:42.174Z'
+datePublished: '2016-08-24T10:42:25.438Z'
+sourcePath: _posts/2016-08-24-mazi-ir-grazus.md
 author: []
 via: {}
-dateModified: '2016-08-24T08:36:21.687Z'
+dateModified: '2016-08-24T10:42:24.740Z'
 title: ''
 publisher: {}
 description: Maži ir gražūs...
 starred: false
-sourcePath: _posts/2016-08-24-mazi-ir-grazus.md
 inFeed: true
 hasPage: true
 inNav: false
@@ -16,4 +16,4 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![Maži ir gražūs...](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7e53dc5-86d8-4abb-bade-f186874dc797.jpg)
+![Maži ir gražūs...](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca0a4f64-1d0e-4338-b704-2d37623ac892.jpg)
