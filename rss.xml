@@ -4,7 +4,7 @@
         <description><![CDATA[GU.GU Photography]]></description>
         <link>https://thegrid.ai/demo-gugu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 10:44:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 10:45:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/demo-gugu/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/demo-gugu/laukimas-as-ir-tu-meile-ir-ateitis/index.html</link>
             <guid isPermaLink="false">53ac1ec6-31c7-4f53-b94c-1c1a1c515806</guid>
             <pubDate>Wed, 24 Aug 2016 10:44:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ba2d8f5-c88b-46fc-8df8-1eae7fd4166d.jpg" alt="Kai tavo k&umacr;nas tampa kitam namais, o &scaron;irdis priklauso ne vien tik tau..">]]></description>
+            <link>https://thegrid.ai/demo-gugu/kai-tavo-kunas-tampa-kitam-namais-o-sirdis-priklauso-ne-vie/index.html</link>
+            <guid isPermaLink="false">b2448467-a4c6-4966-8508-8e6227332063</guid>
+            <pubDate>Wed, 24 Aug 2016 10:44:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/demo-gugu/kas-yra-gyvenimo-pilnatve-tai-matyti-siltai-susisukusi-sot/index.html</link>
             <guid isPermaLink="false">1b49b2e4-a313-4f8d-aeb2-086ed9b09a22</guid>
             <pubDate>Wed, 24 Aug 2016 08:51:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/65e03519-34c3-437a-90a1-818509dc99f9.jpg" alt="Caption">]]></description>
-            <link>https://thegrid.ai/demo-gugu/mamos-rankose-gerumas-supas/index.html</link>
-            <guid isPermaLink="false">5a335f1b-741c-4dd5-a3f1-fd1a6a09c55d</guid>
-            <pubDate>Wed, 24 Aug 2016 08:42:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
