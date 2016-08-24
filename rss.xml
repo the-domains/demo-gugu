@@ -4,7 +4,7 @@
         <description><![CDATA[GU.GU Photography]]></description>
         <link>https://thegrid.ai/demo-gugu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 10:43:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 10:44:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/demo-gugu/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/demo-gugu/9606c856-c1bc-4225-b2a5-a8a2e158ca2f/index.html</link>
             <guid isPermaLink="false">9606c856-c1bc-4225-b2a5-a8a2e158ca2f</guid>
             <pubDate>Wed, 24 Aug 2016 08:58:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/06cb1b66-7cd0-4914-878d-8a9ab5af9d79.jpg" alt="Laukimas. A&scaron; ir Tu. Meil&edot; ir Ateitis...">]]></description>
+            <link>https://thegrid.ai/demo-gugu/laukimas-as-ir-tu-meile-ir-ateitis/index.html</link>
+            <guid isPermaLink="false">53ac1ec6-31c7-4f53-b94c-1c1a1c515806</guid>
+            <pubDate>Wed, 24 Aug 2016 10:44:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/demo-gugu/mamos-rankose-gerumas-supas/index.html</link>
             <guid isPermaLink="false">5a335f1b-741c-4dd5-a3f1-fd1a6a09c55d</guid>
             <pubDate>Wed, 24 Aug 2016 08:42:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c65e582-3219-46fa-97a2-9684b1ac4a3b.jpg" alt="Kai tavo k&umacr;nas tampa kitam namais, o &scaron;irdis priklauso ne vien tik tau..">]]></description>
-            <link>https://thegrid.ai/demo-gugu/kai-tavo-kunas-tampa-kitam-namais-o-sirdis-priklauso-ne-vie/index.html</link>
-            <guid isPermaLink="false">b2448467-a4c6-4966-8508-8e6227332063</guid>
-            <pubDate>Wed, 24 Aug 2016 08:36:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
