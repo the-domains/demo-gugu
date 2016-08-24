@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-24T10:42:25.438Z'
+datePublished: '2016-08-24T10:44:03.077Z'
 sourcePath: _posts/2016-08-24-mazi-ir-grazus.md
 author: []
 via: {}
-dateModified: '2016-08-24T10:42:24.740Z'
+dateModified: '2016-08-24T10:44:02.503Z'
 title: ''
 publisher: {}
 description: Maži ir gražūs...
@@ -16,4 +16,4 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![Maži ir gražūs...](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca0a4f64-1d0e-4338-b704-2d37623ac892.jpg)
+![Maži ir gražūs...](https://the-grid-user-content.s3-us-west-2.amazonaws.com/904c1f06-db26-44af-83ea-fa2648d79213.jpg)
