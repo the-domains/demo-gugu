@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-08-24T08:36:42.171Z'
+datePublished: '2016-08-24T08:52:04.073Z'
+sourcePath: _posts/2016-08-24-ugnele-maza-trapi-bet-nuosirdi-ir-gera.md
 author: []
 via: {}
-dateModified: '2016-08-24T08:33:23.870Z'
+dateModified: '2016-08-24T08:52:03.567Z'
 title: ''
 publisher: {}
 description: 'Ugnelė... maža, trapi, bet nuoširdi ir gera.. '
 starred: false
-sourcePath: _posts/2016-08-24-ugnele-maza-trapi-bet-nuosirdi-ir-gera.md
 inFeed: true
 hasPage: true
 inNav: false
