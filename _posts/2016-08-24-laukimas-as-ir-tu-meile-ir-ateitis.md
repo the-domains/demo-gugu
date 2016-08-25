@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-24T10:44:39.049Z'
+datePublished: '2016-08-25T09:42:27.171Z'
 sourcePath: _posts/2016-08-24-laukimas-as-ir-tu-meile-ir-ateitis.md
 author: []
 via: {}
-dateModified: '2016-08-24T10:44:38.504Z'
+dateModified: '2016-08-25T09:42:26.596Z'
 title: ''
 publisher: {}
 description: Laukimas. Aš ir Tu. Meilė ir Ateitis...
